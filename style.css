@@ -1,0 +1,79 @@
+.jumbotron {
+    background-image: url(img/cover.jpg);
+    background-size: cover;
+    height: 900px;
+    text-align: center;
+}
+.jumbotron .display-4 {
+    color: rgb(94, 214, 228));
+}
+.jumbotron p{
+    color: white
+}
+
+.jumbotron hr{
+    border-color: white ;
+    width: 70px;
+    border-width: 3px;
+}
+.jumbotron .btn{
+    background-color: rgb(20, 132, 160);
+    border: none;
+    border-radius: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-top: 40px;
+}
+.jumbotron a{
+    color: teal;
+}
+.h3 {
+    color: teal;
+}
+.h5 {
+    color: teal;
+}
+
+
+body {
+  background-color: white;
+  background-repeat: no-repeat;
+}
+.btn {
+  background-color: teal ;
+  color: white;
+}
+.btn:hover {
+  background-color:black;
+  color: white;
+}
+.card {
+  box-shadow: 2px 2px 4px black;
+  background-color: teal;
+  color: white;
+  border-radius: 6px;
+}
+.bg {
+  background-colo: teal;
+  text-align: center;
+  border-top-right-radius: 6px;
+  border-top-left-radius: 6px;
+}
+.icon {
+  background-color: teal;
+  color: white;
+  box-shadow: 2px 2px 4px black;
+}
+.bg-dark {
+    background-color: teal;
+}
+#icon:hover {
+  color: black;
+  transition: 2px;
+}
+#icon {
+  color: white;
+}
+#maps {
+  width: 200px;
+}
